@@ -1,0 +1,5 @@
+./yolo
+./yolo_dataset
+./runs
+./data.yaml
+./yolo26n.pt
