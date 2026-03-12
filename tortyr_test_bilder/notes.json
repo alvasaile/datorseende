@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Dryckeskartong"
+    },
+    {
+      "id": 1,
+      "name": "konservburk"
+    },
+    {
+      "id": 2,
+      "name": "pantburk"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
